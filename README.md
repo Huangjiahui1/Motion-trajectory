@@ -1,4 +1,4 @@
-# Animal Behavior and Genetics Code Repository 
+# Animal Behavior and Genetic Analysis Code Repository 
 This repository contains the supplementary code for our manuscript titled "Genetic and Evolutionary Insights into Panic-related Escape Behaviors in Ovine Animals." The code is organized into four main sections:
 
 ## 1. Running and Jumping Trajectory Analysis and Phenotype Calculation 
