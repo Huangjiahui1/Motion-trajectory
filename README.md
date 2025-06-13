@@ -8,6 +8,6 @@ This folder contains the code used for analyzing running and jumping trajectorie
 This section includes the code used for random forest modeling to identify significant associations between morphological features and locomotion performance.  
 ﻿ 
 ## 3. GWAS and Haplotypes Analysis 
-This folder contains the code used for Genome-Wide Association Study (GWAS) and haplotype analysis.  
+This folder contains the code used for Genome-Wide Association Study (GWAS) manhattan map and haplotype analysis.  
 ## 4. Mouse Behavior Experiments 
 This section includes the code used for analyzing behavioral data from gene-edited mice experiments. 
