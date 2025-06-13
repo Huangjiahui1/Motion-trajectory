@@ -1,5 +1,5 @@
 # Animal Behavior and Genetics Code Repository 
-This repository contains the supplementary code for our manuscript titled "Genetic and Evolutionary Insights into Panic-related Escape Behaviors in Ovine Animals." The code is organized into four main sections, each corresponding to a specific aspect of our multidisciplinary study.
+This repository contains the supplementary code for our manuscript titled "Genetic and Evolutionary Insights into Panic-related Escape Behaviors in Ovine Animals." The code is organized into four main sections:
 
 ## 1. Running and Jumping Trajectory Analysis and Phenotype Calculation 
 This folder contains the code used for analyzing running and jumping trajectories derived from high-speed videos of locomotion tests. The data were processed using DeepLabCut (DLC) for trajectory tracking, and subsequent analysis was performed to calculate running speed and jumping height.  
