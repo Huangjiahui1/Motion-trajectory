@@ -1,14 +1,14 @@
 # Animal Behavior and Genetics Code Repository 
 This repository contains the supplementary code for our manuscript titled "Genetic and Evolutionary Insights into Panic-related Escape Behaviors in Ovine Animals." The code is organized into four main sections, each corresponding to a specific aspect of our multidisciplinary study.
 
-##1. Running and Jumping Trajectory Analysis and Phenotype Calculation 
+## 1. Running and Jumping Trajectory Analysis and Phenotype Calculation 
 This folder contains the code used for analyzing running and jumping trajectories derived from high-speed videos of locomotion tests. The data were processed using DeepLabCut (DLC) for trajectory tracking, and subsequent analysis was performed to calculate running speed and jumping height.  
 ﻿ 
-##2. Random Forest Modeling 
+## 2. Random Forest Modeling 
 This section includes the code used for random forest modeling to identify significant associations between morphological features and locomotion performance.  
 ﻿ 
-##3. GWAS and Haplotypes Analysis 
+## 3. GWAS and Haplotypes Analysis 
 This folder contains the code used for Genome-Wide Association Study (GWAS) and haplotype analysis.  
 ﻿ 
-##4. Mouse Behavior Experiments 
+## 4. Mouse Behavior Experiments 
 This section includes the code used for analyzing behavioral data from gene-edited mice experiments. 
