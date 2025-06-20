@@ -12,10 +12,10 @@ Process some integers.
 
 options:
 
--h, --help     show this help message and exit
+-h, --help    show this help message and exit
 --path    Path to the directory containing the pose data files
---scale   Scale of the video where 1 meter equals how many pixels
---out OUT      Path of result output
+--scale    Scale of the video where 1 meter equals how many pixels
+--out    Path of result output
 ```
 ### for example
 ```
